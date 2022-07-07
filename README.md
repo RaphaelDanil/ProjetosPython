@@ -1,11 +1,11 @@
-## Sobre
+# Sobre
 
 Comecei estudando Python e fui me apaixonado pela linguagem.
 Assim que terminei o curso de Python Básico tive algumas ideias de programa para exercitar o que aprendi.
 E aqui vão estar alguns que criei, lembrando que usei o conhecimento básico e fui em busca de algumas melhorias
 
 
-# | ADIVINHE AS PALAVRAS | Jogo
+### | ADIVINHE AS PALAVRAS | Jogo
 
 - Esse foi meu primeiro programa após concluir o curso de python básico
 - O jogo irá sortear uma palavra do arquivo .txt e dirá ao jogadores quantas letras tem
