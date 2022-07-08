@@ -1,0 +1,8 @@
+sapo
+perereca
+cachorro
+gato
+cavalo
+boi
+vaca
+touro
